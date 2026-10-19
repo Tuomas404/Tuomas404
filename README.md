@@ -1,6 +1,6 @@
 # Tuomas Saarinen
 
-ICT engineering student (AMK), focusing on cloud and cyber security.
+ICT Engineering Student | Cloud & Cybersecurity
 
 ## Projects
 

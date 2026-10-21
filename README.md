@@ -1,6 +1,4 @@
-# Tuomas Saarinen
-
-ICT Engineering Student | Cloud & Cybersecurity | Rovaniemi, Finland
+## ICT Engineering Student | Cloud & Cybersecurity
 
 Open to IT infrastructure, cloud and security roles and internships in Finland (remote or on-site).
 

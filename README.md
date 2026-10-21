@@ -15,4 +15,4 @@ ICT Engineering Student | Cloud & Cybersecurity
 
 ## Tools used in my projects
 
-Azure, Microsoft Sentinel, KQL, Azure CLI, Active Directory, Windows Server, Hyper-V, PowerShell, Bash, Python, Linux (Ubuntu Server), Proxmox, OPNsense, WireGuard, Git
+Azure, Microsoft Sentinel, KQL, Azure CLI, Active Directory, Windows Server, Hyper-V, PowerShell, Bash, Python, Linux (Ubuntu Server), Proxmox, OPNsense, WireGuard, Git, Group Policy, Windows LAPS, GitHub Actions

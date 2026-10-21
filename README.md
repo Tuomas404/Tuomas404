@@ -13,6 +13,7 @@ ICT Engineering Student | Cloud & Cybersecurity
 - Portfolio (Finnish): [tuomas404.github.io](https://tuomas404.github.io/)
 - LinkedIn: [linkedin.com/in/tuomas404](https://www.linkedin.com/in/tuomas404/)
 
-## Tools used in my projects
-
-Azure, Microsoft Sentinel, KQL, Azure CLI, Active Directory, Windows Server, Hyper-V, PowerShell, Bash, Python, Linux (Ubuntu Server), Proxmox, OPNsense, WireGuard, Git, Group Policy, Windows LAPS, GitHub Actions
+- **Cloud & security:** Azure, Microsoft Sentinel, KQL, Azure CLI
+- **Identity & Windows:** Active Directory, Group Policy, Windows LAPS, Windows Server, Hyper-V
+- **Linux & networking:** Ubuntu Server, Proxmox, OPNsense, WireGuard
+- **Automation:** PowerShell, Bash, Python, Git, GitHub Actions
